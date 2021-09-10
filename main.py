@@ -1,3 +1,10 @@
+'''
+Encontre as duas linhas que, juntas com o eixo-x, formam um recipiente que contem a
+maior quantidade de agua, conforme pode ser visto na figura 1.
+Note que não é permitido inclinar o recipiente. 
+'''
+
+
 class Solution(object):
     '''
     Estamos criando um subconjunto de cada contêiner possível a partir da
